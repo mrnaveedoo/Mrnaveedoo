@@ -73,7 +73,7 @@ logo='''
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 \033[1;91m☞ Auther     : MR_NAVEEDOO_TRICKER_MASTER
-\033[1;92m☞ WhatsApp   : 03108718381
+\033[1;92m☞ WhatsApp   : 03138461539
 \033[1;95m☞ YouTube    : https://www.youtube.com/channel/UCAGKWM8EwDFZ9sP8CdJhGBA
 
 \033[1;93m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
